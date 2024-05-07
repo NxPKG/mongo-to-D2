@@ -1,0 +1,18 @@
+{
+  "name": "d2-erd-from-postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eta": "^1.12.3",
+    "mongodb": "^5.0.0",
+    "pg": "^8.8.0"
+  }
+}
